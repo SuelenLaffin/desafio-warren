@@ -2,7 +2,7 @@
 Desafios da Warren Tech Academy
 
 Tecnologias e linguagens utilizadas: Python e VsCode.
-Extensões necessáias no VsCode para rodar o código: Python Extension For Visual Studio Code.
+Extensões necessárias no VsCode para rodar o código: Python Extension For Visual Studio Code.
 
 Todos os desafios foram feitos em Python, utilizando o VsCode.
 
